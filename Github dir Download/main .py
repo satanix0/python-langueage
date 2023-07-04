@@ -2,7 +2,7 @@ import os
 import urllib.request
 
 ft_choice = int(input(
-    """Enter 1 to download a raw File \n Enter 2 to download a whole directory\n ENTER: """))
+    """Enter 1 to download a raw File \nEnter 2 to download a whole directory\nENTER: """))
 
 
 def rawFile():
